@@ -1,0 +1,7 @@
+This is a first version of the solver implementation.
+The 'make' command should be enough to compile it and generate the solver executable.
+Please check dependences for g++ or edit the Makefile.
+
+The executable runs by:
+
+./solver [initial mass (units of solar mass)] [initial charge (units of solar mass)] [output file name]
